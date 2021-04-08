@@ -18,4 +18,7 @@ I am an integrations specialist, i can help you integrate with the following Pay
 5. [Poli Payments](https://www.polipayments.com/)
 6. [Stripe](https://stripe.com/docs/api)
 7. [Flutterwave](https://flutterwave.com/us/)
+8. [PayFast](https://payfast.co.za/)
+9. [Owzow](https://ozow.co.za/)
+10. [V-Payments](https://secure.zss.co.zw/vpayments)
 
