@@ -21,4 +21,5 @@ I am an integrations specialist, i can help you integrate with the following Pay
 8. [PayFast](https://payfast.co.za/)
 9. [Owzow](https://ozow.co.za/)
 10. [V-Payments](https://secure.zss.co.zw/vpayments)
+11. [Cellulant-Tingg](https://tingg.africa/)
 
